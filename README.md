@@ -12,15 +12,19 @@ finding what you need as soon as possible
 6. [QT_study_6_CoordinateTransform](https://github.com/sweetfish/QT_study_6_CoordinateTransform)
 
 
-#Study of DataStructure
+##Study of DataStructure
 - [DataStructure](https://github.com/sweetfish/DataStructure)
 
-#Printer_Port
+##Printer_Port
 - [Printer_Port](https://github.com/sweetfish/Printer_Port)
 
   *通过USB的GUID读取通过USB连接的打印机*
 
-#Forked from others
+##About Markdown
+1. [几个简单的语法The-syntax-of-README.md](https://github.com/sweetfish/The-syntax-of-README.md)
+2. [在线编辑工具stackedit](https://stackedit.io/)
+
+##Forked from others
 1. [学习笔记1](https://github.com/sweetfish/note)
 ([*原出处*](https://github.com/lzjun567/note))
   
@@ -33,6 +37,6 @@ finding what you need as soon as possible
 4. [Git教程_作者廖雪峰](https://github.com/sweetfish/Git-Tutorial-By-liaoxuefeng)
 ([*原出处*](https://github.com/numbbbbb/Git-Tutorial-By-liaoxuefeng))
 
-#My Stars
+##My Stars
 1. [《The Swift Programming Language》in Chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 2. [常用文档模板_Markdown格式](https://github.com/renrousousuo/DocumentTemplate)
