@@ -22,17 +22,13 @@ finding what you need as soon as possible
 
 #Forked from others
 1. [学习笔记1](https://github.com/sweetfish/note)
-
-  [*原出处*](https://github.com/lzjun567/note)
+([*原出处*](https://github.com/lzjun567/note))
   
 2. [学习笔记2_about C Go Python](https://github.com/sweetfish/book)
-
-  [*原出处*](https://github.com/qyuhen/book)
+([*原出处*](https://github.com/qyuhen/book))
   
 3. [免费的编程中文书籍索引](https://github.com/sweetfish/free-programming-books-zh_CN)
-
-  [*原出处*](https://github.com/justjavac/free-programming-books-zh_CN)
+([*原出处*](https://github.com/justjavac/free-programming-books-zh_CN))
   
 4. [Git教程_作者廖雪峰](https://github.com/sweetfish/Git-Tutorial-By-liaoxuefeng)
-
-  [*原出处*](https://github.com/numbbbbb/Git-Tutorial-By-liaoxuefeng)
+([*原出处*](https://github.com/numbbbbb/Git-Tutorial-By-liaoxuefeng))
