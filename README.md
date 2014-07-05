@@ -1,6 +1,6 @@
 Index_of_my_Repository
 ======================
-finding what you need as soon as possible
+find what you need as soon as possible
 
 ##Study of QT
 1. [QT_study_tips](https://github.com/sweetfish/QT_study_tips)
