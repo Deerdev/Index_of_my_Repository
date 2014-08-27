@@ -38,6 +38,10 @@ find what you need as soon as possible
 4. [Git教程_作者廖雪峰](https://github.com/sweetfish/Git-Tutorial-By-liaoxuefeng)
 ([*原出处*](https://github.com/numbbbbb/Git-Tutorial-By-liaoxuefeng))
 
+5. [历届KCon演讲者PPT](https://github.com/sweetfish/KCon)([*原出处*](https://github.com/knownsec/KCon))
+
+6. [关于大数据的开源项目、论文等合集 ](https://github.com/sweetfish/awesome-bigdata)([*原出处*](https://github.com/onurakpolat/awesome-bigdata))
+
 ##My Stars
 1. [《The Swift Programming Language》in Chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 2. [常用文档模板_Markdown格式](https://github.com/renrousousuo/DocumentTemplate)
